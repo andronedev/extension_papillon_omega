@@ -1,0 +1,1 @@
+install url : `https://raw.githubusercontent.com/andronedev/extension_papillon_omega/master/papillonManifest.json`
